@@ -479,7 +479,7 @@ font-weight: 700;
   /* ***** */
   /* respose styles */
 
-  @media screen and (min-width:420px) and (max-width:576px)
+  @media screen and (min-width:350px) and (max-width:576px)
    {
     .navbar{
         border-bottom: 1px solid orange;
